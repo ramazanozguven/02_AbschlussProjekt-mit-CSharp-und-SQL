@@ -1,9 +1,10 @@
 # 02_AbschlussProjekt-mit-CSharp-und-SQL
 
-Entwicklung eines datenbankgestützten Hotelregistrierungsprogramms zur Optimierung der Kundenregistrierung und -verfolgung sowie der Zimmerbelegungsübersicht im Hotel
-![Screenshot der Website](https://github.com/ramazanozguven/02_AbschlussProjekt-mit-CSharp-und-SQL/blob/1c4093c5212b85322af9b8a9b6109d88f90f30a0/Screenschot%20des%20Projekt_1.PNG)
+
+![Screenshot der Website](https://github.com/ramazanozguven/02_AbschlussProjekt-mit-CSharp-und-SQL/blob/1c4093c5212b85322af9b8a9b6109d88f90f30a0/Screenschot%20des%20Projekt_2.PNG)
 
 ## Projektbeschreibung 
+Entwicklung eines datenbankgestützten Hotelregistrierungsprogramms zur Optimierung der Kundenregistrierung und -verfolgung sowie der Zimmerbelegungsübersicht im Hotel
 **Hotel**: Hier sind insbesondere das Management, die Mitarbeiter und die bestehenden Systeme zu berücksichtigen, da das Hotel das unmittelbare Projektumfeld bildet.
 
 **Kunden**: Die Bedürfnisse, Anforderungen und Erwartungen der Kunden des Sonnenblumen Hotels sind entscheidend für die Entwicklung des Programms, da es dazu beitragen soll, die Kundenzufriedenheit zu steigern.
