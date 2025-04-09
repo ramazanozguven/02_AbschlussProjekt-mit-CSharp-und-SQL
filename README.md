@@ -1,6 +1,7 @@
 # 02_AbschlussProjekt-mit-CSharp-und-SQL
 
 Entwicklung eines datenbankgestützten Hotelregistrierungsprogramms zur Optimierung der Kundenregistrierung und -verfolgung sowie der Zimmerbelegungsübersicht im Hotel
+![Screenshot der Website](https://github.com/ramazanozguven/02_AbschlussProjekt-mit-CSharp-und-SQL/blob/1c4093c5212b85322af9b8a9b6109d88f90f30a0/Screenschot%20des%20Projekt_1.PNG)
 
 ## Projektbeschreibung 
 **Hotel**: Hier sind insbesondere das Management, die Mitarbeiter und die bestehenden Systeme zu berücksichtigen, da das Hotel das unmittelbare Projektumfeld bildet.
